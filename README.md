@@ -17,6 +17,7 @@ Designing & building DApps in neo-banking, retail, and rewards:
 Neo-bank prototype demo :  
 https://evadev.xyz/home/#dashboard  
 Features: Starkware/Cairo contracts, passkey login, gasless UX, merchant self-reg.
+Back end : node.js & express
 
 ## Skills & Tools
 - Languages: Solidity, Cairo, JavaScript/TypeScript  
